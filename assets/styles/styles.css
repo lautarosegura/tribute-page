@@ -1,0 +1,71 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: lightgray;
+	color: rgb(58, 58, 58);
+}
+
+header {
+	font-family: 'Oswald';
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	margin-top: 24px;
+}
+
+header h1 {
+	margin: 0;
+	padding: 0;
+	font-size: 48px;
+}
+
+header h2 {
+	margin: 0;
+	font-size: 24px;
+}
+
+div.text-content {
+	margin-top: 36px;
+	width: 1200px;
+	margin: 0 auto 72px auto;
+}
+
+div.text-content h2 {
+	text-align: center;
+}
+
+#img-section img {
+	width: 100%;
+}
+
+#img-section {
+	text-align: center;
+	margin-top: 24px;
+	background-color: white;
+	border: 8px solid white;
+	border-radius: 4px;
+	width: 1200px;
+	margin: 24px auto 24px auto;
+}
+
+#time-line h3 {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	margin-top: 48px;
+}
+
+#time-line ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin-top: 36px;
+	text-align: center;
+	margin-bottom: 36px;
+	display: block;
+}
+
+#biography blockquote {
+	font-size: 20px;
+	margin: 0 auto;
+	width: 1200px;
+}
